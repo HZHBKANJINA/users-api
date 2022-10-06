@@ -1,0 +1,259 @@
+{
+  "idoli": [
+    {
+      "id": 2,
+      "ime": "Ivan",
+      "prezime": "Juric",
+      "nadimak": "Civala",
+      "godiste": "1940",
+      "mjesto": "Podorasac",
+      "opis_idola": "Voli popiti koju rakiju viska cesto.Dobio sina u 56 godini zivota s ljubavnicom,pri svinjokolji pustio svinju da izadje iz svinjca jer mu je draza bila casa rakije,svinja pobjegla u sumu."
+    },
+    {
+      "id": 3,
+      "ime": "Zoran",
+      "prezime": "Zovko",
+      "nadimak": "Zorko",
+      "godiste": "1958",
+      "mjesto": "Podorasac",
+      "opis_idola": "Sjedi uvijek na istoj stolici u kaficu Porta.Voli da zna sve ko sta radi."
+    },
+    {
+      "id": 4,
+      "ime": "Andjelko",
+      "prezime": "Mikulic",
+      "nadimak": "Prinke",
+      "godiste": "1948",
+      "mjesto": "Podorasac",
+      "opis_idola": "Voli popiti koju rakiju viska,pravi grobnice u obliku slova V a ne pravokutnika,pri prodaji magareta popio za 15 minuta litar Stocka."
+    },
+    {
+      "id": 5,
+      "ime": "Pero",
+      "prezime": "Azinovic",
+      "nadimak": "Pero Konzerva",
+      "godiste": "1947",
+      "mjesto": "Kanjina",
+      "opis_idola": "Budala koja mlati zenu masama za drva zbog neposlusnosti i prica lazi po selu."
+    },
+    {
+      "id": 6,
+      "ime": "Marinko",
+      "prezime": "Azinovic",
+      "nadimak": "Role",
+      "godiste": "1949",
+      "mjesto": "Kanjina",
+      "opis_idola": "Teski alkoholicar koji pocinje piti ujutru u 4 sata.Izgubio kontakt sa svijetom,misli samo na rakiju. Nekoliko puta je bio u situaciji da dodje kuci na 4 noge,jednom presjekao cestu na biciklu ispred auta koje se jedva zaustavilo."
+    },
+    {
+      "id": 8,
+      "ime": "Zdravko",
+      "prezime": "Krizanovic",
+      "nadimak": "Roke",
+      "godiste": "1957",
+      "mjesto": "Ovcari",
+      "opis_idola": "Najbolji covjek na podrucju sjeverne Herceg Bosne.Brine se o HRVATIMA.Voli uzeti koju casu viska,3 puta zaglavio jednom nije mogao dovesti auto,jednom usao s njemackim ovcarom u psecu kucicu i osjetio ugriz psa,jednom vratili ga iz kafane i onda on vratio u kafanu onog tko ga je doveo do kuce."
+    },
+    {
+      "id": 9,
+      "ime": "Mladen",
+      "prezime": "Petrovic",
+      "nadimak": "Matisa jr.",
+      "godiste": "1939",
+      "mjesto": "Ovcari",
+      "opis_idola": "Bio izlozen progonu od strane balija.Pobjegao u rodni kraj.Voli glasno pricati i suprostaviti se balijama."
+    },
+    {
+      "id": 11,
+      "ime": "Ivica",
+      "prezime": "Rajic",
+      "nadimak": "Pijano",
+      "godiste": "1960",
+      "mjesto": "Ovcari",
+      "opis_idola": "Teski alkoholicar,ostavio zenu i dijete zbog druge,na drugom vjencanju ostavio novu zenu i vratio se staroj.S rodjenim bratom radio orgije u Njemackoj s najvecom kurvom u selu."
+    },
+    {
+      "id": 13,
+      "ime": "Branko",
+      "prezime": "Rajic",
+      "nadimak": "Rodjak Brane",
+      "godiste": "1957",
+      "mjesto": "Ovcari",
+      "opis_idola": "Ozenio se 2 puta,prvi put ga ostavila zena jer mu je opeglala karticu i razbila novog mercedesa s500,drugi put ozenio sado-mazo zenu od 150kg."
+    },
+    {
+      "id": 20,
+      "ime": "Dragan",
+      "prezime": "Boras",
+      "nadimak": "Cencilo",
+      "godiste": "1965",
+      "mjesto": "Ovcari",
+      "opis_idola": "Pobjego u Ameriku od balija,voli popit koju casu rakije vise,kad popije veselje nastaje."
+    },
+    {
+      "id": 21,
+      "ime": "Vlado",
+      "prezime": "Andric",
+      "nadimak": "Vlado Ribar",
+      "godiste": "1959",
+      "mjesto": "Ovcari",
+      "opis_idola": "Najsporiji covjek u selu,ono sto drugi urade u roku od predvidjenog on radi tri puta sporije."
+    },
+    {
+      "id": 23,
+      "ime": "Marinko",
+      "prezime": "Petrovic",
+      "nadimak": "DJ Marinko",
+      "godiste": "1935",
+      "mjesto": "Ovcari",
+      "opis_idola": "Prodaje krmad,voli zezanciju i salu,popije koju rakiju viska."
+    },
+    {
+      "id": 26,
+      "ime": "Marijo",
+      "prezime": "Azinovic",
+      "nadimak": "Marijo Vrbic",
+      "godiste": "1965",
+      "mjesto": "Vrbici",
+      "opis_idola": "Teski HRVAT,ima hrabrosti da pusti domoljubne HRVATSKE pjesme pred balijama."
+    },
+    {
+      "id": 27,
+      "ime": "Nino",
+      "prezime": "Arapovic",
+      "nadimak": "Nino",
+      "godiste": "1959",
+      "mjesto": "Vrbici",
+      "opis_idola": "Osto mlad bez zene,voli popit koju rakiju viska,prilikom blagoslova polja na Zelenim Njivama pao i razbio glavu na kamen bez tezih posljedica."
+    },
+    {
+      "id": 28,
+      "ime": "Miro",
+      "prezime": "Boras",
+      "nadimak": "Brile",
+      "godiste": "1964",
+      "mjesto": "Ovcari",
+      "opis_idola": "Najjaca osoba po svemu,vrijedan radi sve poslove,voli koju rakiju viska,voli zene pogotovo u crvenom rublju,kad nadje neku potrosi svoju cijelu mirovinu na zenske usluge,hrabar da se suprostavi balijama."
+    },
+    {
+      "id": 29,
+      "ime": "Bruno",
+      "prezime": "Boras",
+      "nadimak": "Bruno Boras",
+      "godiste": "1962",
+      "mjesto": "Ovcari",
+      "opis_idola": "Ostavio zenu i dijete zbog kurve,ozenio kurvu i dobio s njom dvoje djece.Voli ribolov,lov,i koju rakiju viska,pogotovo ne moze bez Zuje."
+    },
+    {
+      "id": 30,
+      "ime": "Zdenko",
+      "prezime": "Bebek",
+      "nadimak": "Zdena Bebek",
+      "godiste": "1964",
+      "mjesto": "Tresanica",
+      "opis_idola": "Voli popiti rakiju viska svaki dan poslje posla,ozenio se ali ga zena ostavila zbog alkohola.Osigurava prava svih HRVATA."
+    },
+    {
+      "id": 31,
+      "ime": "Aleksandar",
+      "prezime": "Savcic",
+      "nadimak": "Braco Savcic",
+      "godiste": "1971",
+      "mjesto": "Tresanica",
+      "opis_idola": "Voli zene,voli koju rakiju viska,odrzava odnose izmedju HRVATA i SRBA koji su protjerani od balija."
+    },
+    {
+      "id": 32,
+      "ime": "Tihomir",
+      "prezime": "Sapina",
+      "nadimak": "Sapa",
+      "godiste": "1957",
+      "mjesto": "Tresanica",
+      "opis_idola": "Legenda HRVATA.Prevarila ga zena s drugim i odvela mu djecu.Zbog toga dobio blagi lom zivaca i poceo galamiti i smijati se glasno.U svom poslu je najbolji od svih."
+    },
+    {
+      "id": 34,
+      "ime": "Mladen",
+      "prezime": "Silic",
+      "nadimak": "Sile Zuti",
+      "godiste": "1967",
+      "mjesto": "Suhi dol",
+      "opis_idola": "Pijano,nije alkoholicar,vrijedan radi sve poslove,zena ga ostavila jer su joj drazi ljubavnici.Brine se o svojoj djeci."
+    },
+    {
+      "id": 36,
+      "ime": "Zdravko",
+      "prezime": "Petrovic",
+      "nadimak": "Civa",
+      "godiste": "1958",
+      "mjesto": "Suhi dol",
+      "opis_idola": "Jedan od najboljih,voli ponekad popit rakiju viska,ima dobru zenu koja ga drzi pod kontrolom."
+    },
+    {
+      "id": 41,
+      "ime": "Zeljko",
+      "prezime": "Delinac",
+      "nadimak": "Svabo",
+      "godiste": "1969",
+      "mjesto": "Varda",
+      "opis_idola": "Jedan od najboljih,voli ponekad popit rakiju viska,voli zezanciju,pomaze HRVATIMA i suprostavlja se balijama."
+    },
+    {
+      "id": 42,
+      "ime": "Mladen",
+      "prezime": "Rados",
+      "nadimak": "Keca",
+      "godiste": "1964",
+      "mjesto": "Kolonija",
+      "opis_idola": "Drugi najbolji,pomaze HRVATIMA,suprostavlja se balijama,svaku vecer uzme rakiju viska i namiri se."
+    },
+    {
+      "id": 45,
+      "ime": "Srecko",
+      "prezime": "Niksic",
+      "nadimak": "Srecko Niksic",
+      "godiste": "1951",
+      "mjesto": "Borovac",
+      "opis_idola": "Teski alkoholicar,ostavio zenu i dvoje djece zbog kurve i odo se alkoholu.Nova zena upravlja s njim."
+    },
+    {
+      "id": 47,
+      "ime": "Petar",
+      "prezime": "Niksic",
+      "nadimak": "Perica",
+      "godiste": "1959",
+      "mjesto": "Borovac",
+      "opis_idola": "Provala ziva,rijetko popije koju rakiju viska,vrhunsko lijevo krilo i biciklist."
+    },
+    {
+      "id": 48,
+      "ime": "Zeljko",
+      "prezime": "Petrovic",
+      "nadimak": "Zelja Biznis",
+      "godiste": "1957",
+      "mjesto": "Galjevo",
+      "opis_idola": "Ziva legenda,obavezno konzumira Zuju,rijetko popije koju rakiju viska,ima najbolje scene,3 puta vozio auto u zivotu i 3 puta udario,jednom na poligonu za voznju za kamione nije znao napravit polukruzno i u brdo udario,jednom umjesto blago u lijevu u uskoj krivini pravo u banderu,i jednom parkirano auto ugaseno pod rucnom i punim autom pilica ubacio u neutralnu brzinu i auto odletilo u Neretvu s pilicima."
+    },
+    {
+      "id": 49,
+      "ime": "Branko",
+      "prezime": "Petrovic",
+      "nadimak": "Brandja",
+      "godiste": "1948",
+      "mjesto": "Galjevo",
+      "opis_idola": "Voli popiti koju rakiju viska,izgleda kao pirat s kariba ali sa suncanim naocalama,provala ziva."
+    },
+    {
+      "id": 50,
+      "ime": "Ilija",
+      "prezime": "Azinovic",
+      "nadimak": "Tuntas",
+      "godiste": "1935",
+      "mjesto": "Galjevo",
+      "opis_idola": "Ziva legenda,poznat zbog zamjene rijeci hajdukovac=hajduk***c zbog cega se doveo u situaciju da izbije tuca ali se to nije dogodilo,vozi golf 2 dan danas,veliki lovac,kad lovi svinje umjesto u svinju on u drvo."
+    },
+    {
+      "id": 51
+    }
+  ]
+}
